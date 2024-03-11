@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.createfile","l":"CreateFile"},{"p":"ru.createfile.datepackege","l":"Datefile"},{"p":"ru","l":"Main"}];updateSearchResults();
